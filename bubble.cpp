@@ -1,6 +1,4 @@
 #include<iostream>
-#include <stdio.h>
-#include <stdlib.h>
 using namespace std;
 void bubble_sort(int list[30],int n);
 int main()
